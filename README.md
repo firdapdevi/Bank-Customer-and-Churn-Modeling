@@ -1,6 +1,7 @@
 # Bank-Customer-and-Churn-Modeling
 Here was done the process data analytics and machine learning techniques to understand and predict customer churn within a banking context.
 This involves analyzing various customer-related data, such as:
+
 • demographics
 
 • account activity
